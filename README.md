@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./assets/logo.png" alt="issue-type-label">	
+	<img src="./assets/logo.png" alt="issue-type-label" height="150">	
 </p>
 <h1 align="center">
 	issue-type-label
