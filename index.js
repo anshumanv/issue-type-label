@@ -1,10 +1,11 @@
+const issueType = require('./lib/issueType');
+
 module.exports = (robot) => {
-  // Your code here
   robot.log('Yay, the app was loaded!')
 
-  // For more information on building apps:
-  // https://probot.github.io/docs/
-
-  // To get your app running against GitHub, see:
-  // https://probot.github.io/docs/development/
+  // Listen to the issue created/updated event
+  const events = ['issues.opened', 'issues.edited']
+  robot.on(events, async context => {
+  	issueType(context);
+  })
 }
