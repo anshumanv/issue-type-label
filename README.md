@@ -5,13 +5,10 @@
 
 See [docs/deploy.md](docs/deploy.md) if you would like to run your own instance of this app.
 
-## Usage
-
-Install the app from [here](https://github.com/apps/issue-type-label) in the repositories you need, and see the bot comment quotes on any newly opened issues and pull requests.
 
 ## Demo
 
-<img src="https://user-images.githubusercontent.com/21009455/36256315-6a88e74c-1278-11e8-80a4-9dc08265492b.png" alt="Demo" align="center">
+<img src="./demo.gif" alt="Demo" align="center">
 
 ## Development
 - Clone repo
