@@ -2,15 +2,6 @@
 
 > a GitHub App to automatically label issues based on the title.
 
-## Setup
-
-```sh
-# Install dependencies
-npm install
-
-# Run the bot
-npm start
-```
 
 See [docs/deploy.md](docs/deploy.md) if you would like to run your own instance of this app.
 
@@ -33,8 +24,6 @@ Install the app from [here](https://github.com/apps/issue-type-label) in the rep
 - Store the private key as `private-key.pem` in the repository’s directory
 - Start the app with `APP_ID=1234 npm start` where `1234` is your GitHub App’s ID
 - update your GitHub App’s `Webhook URL` to your localtunnel.me URL
-
-## License
 
 ## Author
 
