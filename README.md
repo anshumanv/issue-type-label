@@ -1,4 +1,9 @@
-# issue-type-label
+<p align="center">
+	<img src="./assets/logo.png" alt="issue-type-label">	
+</p>
+<h1 align="center">
+	issue-type-label
+</h1>
 
 > a GitHub App to automatically label issues based on the title.
 
@@ -8,7 +13,7 @@ See [docs/deploy.md](docs/deploy.md) if you would like to run your own instance 
 
 ## Demo
 
-<img src="./demo.gif" alt="Demo" align="center">
+<img src="./assets/demo.gif" alt="Demo" align="center">
 
 ## Development
 - Clone repo
