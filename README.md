@@ -5,6 +5,8 @@
 	issue-type-label
 </h1>
 
+[![Build Status](https://travis-ci.org/anshumanv/issue-type-label.svg?branch=master)](https://travis-ci.org/anshumanv/issue-type-label)
+
 > a GitHub App to automatically label issues based on the title.
 
 
