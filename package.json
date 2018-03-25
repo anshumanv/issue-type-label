@@ -7,12 +7,14 @@
   "repository": "https://github.com/anshumanv/issue-type-label.git",
   "scripts": {
     "start": "probot run ./index.js",
-    "test": "jest && standard"
+    "test": "jest && standard",
+    "precommit": "jest && standard"
   },
   "dependencies": {
     "probot": "^6.0.0"
   },
   "devDependencies": {
+    "husky": "^0.14.3",
     "jest": "^21.2.1",
     "smee-client": "^1.0.1",
     "standard": "^10.0.3"

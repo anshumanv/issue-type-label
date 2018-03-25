@@ -1,4 +1,4 @@
-const issueType = require('./lib/issueType');
+const issueType = require('./lib/issueType')
 
 module.exports = (robot) => {
   robot.log('Yay, the app was loaded!')
@@ -6,6 +6,6 @@ module.exports = (robot) => {
   // Listen to the issue created/updated event
   const events = ['issues.opened', 'issues.edited']
   robot.on(events, async context => {
-  	issueType(context);
+    issueType(context)
   })
 }
