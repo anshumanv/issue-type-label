@@ -10,8 +10,8 @@
 > a GitHub App to automatically label issues based on the title.
 
 
-See [docs/deploy.md](docs/deploy.md) if you would like to run your own instance of this app.
-
+### See it working
+Head over to [this](https://github.com/anshumanv/testing) repository and try opening up an issue.
 
 ## Demo
 
