@@ -39,6 +39,5 @@ Anshuman Verma
 Found a bug, please [create an issue](https://github.com/anshumanv/issue-type-label/issues/new)
 
 ## License
-
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/anshumanv/issue-type-label/blob/master/LICENSE)
+ISC
 > © Anshuman Verma
